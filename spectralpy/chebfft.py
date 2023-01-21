@@ -1,4 +1,4 @@
-"""CHEBFFT  Chebyshev differentiation via FFT. Simple, not optimal."""
+"""Chebyshev differentiation using the FFT."""
 
 import numpy as np
 

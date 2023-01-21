@@ -1,4 +1,4 @@
-"""clencurt.py - Clenshaw-Curtis quadrature nodes and weights"""
+"""Clenshaw-Curtis quadrature nodes and weights."""
 
 import numpy as np
 

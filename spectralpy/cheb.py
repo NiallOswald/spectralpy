@@ -1,4 +1,4 @@
-"""CHEB  compute D = differentiation matrix, x = Chebyshev grid"""
+"""Chebyshev differentiation matrix."""
 
 import numpy as np
 
